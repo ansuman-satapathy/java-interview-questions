@@ -1,4 +1,4 @@
-package TypesOfCopying;
+package types_of_copying;
 
 public class DeepCopy {
     public int y;

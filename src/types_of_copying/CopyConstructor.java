@@ -1,4 +1,4 @@
-package TypesOfCopying;
+package types_of_copying;
 
 public class CopyConstructor {
     int x;

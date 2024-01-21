@@ -1,6 +1,6 @@
-import TypesOfCopying.CopyConstructor;
-import TypesOfCopying.DeepCopy;
-import TypesOfCopying.ShallowCopy;
+import types_of_copying.CopyConstructor;
+import types_of_copying.DeepCopy;
+import types_of_copying.ShallowCopy;
 import constructor_overloading.Demo;
 import method_overloading.Example;
 import method_overriding.Child;
