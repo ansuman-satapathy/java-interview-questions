@@ -1,3 +1,4 @@
+import this_and_super.SuperKeyword;
 import types_of_copying.CopyConstructor;
 import types_of_copying.DeepCopy;
 import types_of_copying.ShallowCopy;
@@ -62,7 +63,7 @@ public class Main {
         ThisKeyword thisKeyword2 = new ThisKeyword(100, "Ansuman");
 
         //super keyword
-
+        SuperKeyword superKeyword = new SuperKeyword();
 
     }
 }
