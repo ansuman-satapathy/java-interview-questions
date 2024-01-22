@@ -1,6 +1,6 @@
-package string_concatenation;
+package string;
 
-public class StringConcatenationExample {
+public class StringConcatenation {
     public void demoMethod() {
         System.out.println(1 + 1 + 1 + "Hello"); //Output: 3Hello
         System.out.println("Hello" + 1 + 1 + 1); //Output: Hello111
